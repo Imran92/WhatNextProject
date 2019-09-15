@@ -1,1 +1,1 @@
-web: gunicorn WhatNextApp.wsgi --log-file -
+web: gunicorn whatsnextapp.wsgi --log-file -
