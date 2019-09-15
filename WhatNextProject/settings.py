@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'WhatNextProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'whatnextdb',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
-        'PORT': '',
+        'NAME': 'dvaSImHjhE',
+        'USER': 'dvaSImHjhE',
+        'PASSWORD': 'LqtQXM39B0',
+        'HOST': 'remotemysql.com',
+        'PORT': '3306',
     }
 }
 
