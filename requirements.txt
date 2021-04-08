@@ -1,4 +1,4 @@
-Django==2.2.5
+Django==2.2.20
 django-enumfield==1.5
 djangorestframework==3.10.3
 mysqlclient==1.4.4
